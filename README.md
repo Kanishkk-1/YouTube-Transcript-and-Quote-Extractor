@@ -21,7 +21,7 @@ Clone the repository or create a new directory for this project. Then, create a 
 
 1. Clone the repository (or download the script):
     ```bash
-    git clone https://github.com/solankikeval166/Youtube-Transcriber-and-Quote-Extractor.git
+    git clone https://github.com/Kanishkk-1/YouTube-Transcript-and-Quote-Extractor.git
     
     cd YouTube-Transcript-Extractor
     ```
